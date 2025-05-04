@@ -31,6 +31,7 @@ git status
 git add .
 git commit -m "your message"
 git push origin branchname/main
+(when merging branches we have to be in the branch where we want to merge it)
 
 git branch
 git pull origin branchname/main
