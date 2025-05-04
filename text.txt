@@ -4,3 +4,33 @@ git status
 git add .
 git commit -m "your message"
 git push
+
+git pull
+
+git clone url
+
+check url 
+git remote -v
+
+add branch
+git checkout -b branchname
+
+check on which branch you are on
+git branch
+
+git status
+git add .
+git commit -m "your message"
+git push origin branchname/main
+
+change branch
+git checkout branchname/main
+
+git merge branchname/main
+git status
+git add .
+git commit -m "your message"
+git push origin branchname/main
+
+git branch
+git pull origin branchname/main
